@@ -1,5 +1,5 @@
 # CSGO External MultiCheat
-External MultiCheat project created as an educational introduction to binary reverse engineering and ethical hacking. Built using C++ and Win32 libraries. This cheat is detected by Valve Anti Cheat (VAC) if you would like to learn more I suggest reading [this](https://guidedhacking.com/threads/how-to-bypass-vac-valve-anti-cheat-info.8125/) article for more information. 
+[Counter-Strike: Global OFfensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/) External MultiCheat project created as an educational introduction to binary reverse engineering and ethical hacking. Built using C++ and Win32 libraries. This cheat is detected by Valve Anti Cheat (VAC) if you would like to learn more I suggest reading [this](https://guidedhacking.com/threads/how-to-bypass-vac-valve-anti-cheat-info.8125/) article for more information. 
 
 ## Visuals
 - Character Chams (RGB & Brightness)
