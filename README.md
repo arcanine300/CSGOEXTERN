@@ -3,8 +3,8 @@ External MultiCheat project created as an educational introduction to binary rev
 
 ## Visuals
 - Character Chams (RGB & Brightness)
-- NoFlash
-- Glow Wallhack (VAC detected feature, your account will be flagged)
+- NoFlash 
+- Glow Wallhack (VAC detected feature)
 - Viewmodel / Hand Chams 
 
 ## Aim
@@ -13,7 +13,7 @@ External MultiCheat project created as an educational introduction to binary rev
 - Low FOV Aimbot with mouse smoothing
 
 ## Misc 
-- RadarHack (VAC detected feature, your account will be flagged)
+- RadarHack (VAC detected feature)
 - NoHands 
 - BunnyHop
 - Fakelag 
